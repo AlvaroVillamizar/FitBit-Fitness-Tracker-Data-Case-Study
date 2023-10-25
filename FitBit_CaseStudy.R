@@ -60,6 +60,7 @@ df <- Bellabeat_daily %>%
   left_join(Bellabeat_daily, by= c('Week', 'Id'))
 
 Bellabeat_daily$ActivityLevel <- df$ActivityLevel 
+rm(df)
 
 #Bar chart of Week of the Year VS. Average Steps  ----------
 StepsWeek <- Bellabeat_daily %>% 
