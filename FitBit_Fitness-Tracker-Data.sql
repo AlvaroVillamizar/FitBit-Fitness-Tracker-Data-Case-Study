@@ -1,7 +1,7 @@
 /*#########################################################################
-#	Dataset: FitBit Fitness Tracker Data								  #
-#	Source: https://www.kaggle.com/datasets/arashnic/fitbit				  #
-#	Language: Microsoft SQL Server Management Studio 19					  #
+#	Dataset: FitBit Fitness Tracker Data				  #
+#	Source: https://www.kaggle.com/datasets/arashnic/fitbit		  #
+#	Language: Microsoft SQL Server Management Studio 19		  #
 ##########################################################################*/
 
 -- Merging and organizing some data sets for the analysis
